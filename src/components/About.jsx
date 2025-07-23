@@ -24,7 +24,7 @@ export default function About() {
                     transition={{ delay: 0.2, duration: 1 }}
                     className="text-gray-300 text-sm sm:text-lg mb-6"
                 >
-                    I'm <span className="font-semibold text-white">Tanmay Haldar</span>, an aspiring Software Developer currently pursuing a BCA at MAKAUT. I'm passionate about clean code, intuitive UI/UX, and continuous learning. I specialize in building responsive web and mobile applications using technologies like React.js, React Native, and the MERN stack.
+                    I'm <span className="font-semibold text-white">Tanmay Haldar</span>, an aspiring Software Developer currently pursuing BCA at MAKAUT. I'm passionate about clean code, intuitive UI/UX, and continuous learning. I specialize in building responsive web and mobile applications using technologies like React.js, React Native, and the MERN stack.
                 </motion.p>
 
                 <motion.div
@@ -52,7 +52,7 @@ export default function About() {
                     <div>
                         <h3 className="text-lg font-bold text-white mb-1">💻 Skills</h3>
                         <p className="text-gray-400">
-                            React.js, React Native, HTML, CSS, JavaScript, MERN Stack
+                            React JS, React Native, HTML, CSS, JavaScript, Python, MERN Stack
                         </p>
                     </div>
 

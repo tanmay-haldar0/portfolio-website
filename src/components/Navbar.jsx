@@ -31,8 +31,8 @@ export default function Navbar() {
     <nav className="fixed top-0 left-0 w-full z-50 bg-transparent backdrop-blur-md">
       <div className="max-w-7xl mx-auto px-6 py-5 flex justify-between items-center">
         {/* Logo or name */}
-        <div className="text-white font-bold text-xl md:text-2xl">
-          <FaMendeley />
+        <div className="text-white font-bold text-xl md:text-2xl cursor-pointer">
+          <FaMendeley onClick={()=> navigate("/")}/>
         </div>
 
         {/* Hamburger - mobile */}
