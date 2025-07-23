@@ -7,14 +7,9 @@ const projectList = [
     link: "https://classiccustom-frontend.onrender.com/",
   },
   {
-    title: "MERN Notes App",
-    image: "/projects/todo.png",
-    link: "https://your-todo-app.com",
-  },
-  {
-    title: "Weather Dashboard",
-    image: "/projects/weather.png",
-    link: "https://your-weather-app.com",
+    title: "City Weather",
+    image: "https://res.cloudinary.com/dieo0zyno/image/upload/v1753266361/your_folder/lar7dmvfh9zogmrdgmbd.jpg",
+    link: "https://weather-app-html-css-js.onrender.com",
   },
   // Add more as needed
 ];
